@@ -134,9 +134,3 @@ int main()
     pushThread.join();
     thread.join();
 }
-
-/*
-/Users/kekeyilv/Documents/Project/MicroProject/charanim/test.mp4
-135
-240
-*/
